@@ -1,0 +1,55 @@
+<mjml>
+  <mj-head>
+    <mj-title>Fortnite</mj-title>
+    <mj-style>
+      body {
+        padding: 16px;
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-all padding="0px" font-family="Open sans" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="800px" background-color="#fff">
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image src="https://ci6.googleusercontent.com/proxy/uQrGdRDYxVUhh0BdE8Xyb6ouUsD1NZmndlQ7ES95mUeGqWwt3gScq3_8kgXm7ewdFgVr2tZ0_ywgLxEdtHCKbQm2qrwfNm3EqpKv0Oy-VMrugtsK31aRIBSj0z2CWUixiAeVW2qe_Yy1h1K8Q3KumuBV=s0-d-e1-ft#http://images.harmony.epsilon.com/ContentHandler/images?id=c7a8caa0-7013-4553-b5a8-34b8c1cbaa54" />
+        <mj-spacer height="19px" />
+        <mj-image src="https://ci6.googleusercontent.com/proxy/RDI5dSHd1PTlmRF1ta_EDZ-qoN6eF6zWHDgHEOZleAJsUZMFeqtikMdaknk_tFZOyBjxLIv65X_cNmreQra1qSQ1t4N9rN9QnBtY=s0-d-e1-ft#https://media.sailthru.com/5m9/1k4/b/u/5fc590faa0462.gif" href="https://mail.epicgames.com/T/v6000001763ee1e4c1c4547c6e965fc958/bb5d81c4bc314a760000021ef3a0bcc2/bb5d81c4-bc31-4a76-b350-0ac0379a3008?__dU__=v0G4RBKTXg2GsSUKeCIT0ZsixpTu2oNAqvl6X7t4UbJT0=&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_3eBdf9FwQgU_lC_O4v6bOb7GeWdXfIhJecTlBW9qU7YC8s8AYXRVndtPZs8zhxON9MR9thmGSU3lXEAF5YBRC4i675hs5woNgNquA4GH6GjRiCn59TaOaHxi38qTo1e0rIJkNJRi4fsLHO_3qC0VElwyiRrFp1Q0N_2CQCpVGvWBqQsz5aNPr7bz-gjOS1KggklJpRif38RFTLCnj9y1ffi8HasqG41P0f5ailGK8dQ5nZySSzTFZZv2AfFsaqKSo=" />
+        <mj-spacer height="19px" />
+        <mj-image src="https://ci5.googleusercontent.com/proxy/gVRasGpkYJFFpfAh2TL2OUz_K1T_vwtjOAZjlmn5pkRKsKX6KcaVbo5u2a4MRFM6TYGY1G5Mpox6LbDnhPrmIavOwUXLLoZEofqfMb53vVzjurrd_4PylLCg3CzEob4RDePqZfwbkSObmAEEXHCI8dpS=s0-d-e1-ft#http://images.harmony.epsilon.com/ContentHandler/images?id=e480b80c-f9cc-45e3-b85f-d58bd9c9545b" width="199px" padding="13.9219px 0px 9.9375px" />
+        <mj-spacer height="19px" />
+        <mj-text font-size="16px" color="#000" align="center" font-weight="bold">
+          O Ponto Zero está exposto.
+        </mj-text>
+        <mj-spacer height="19px" />
+        <mj-text font-size="16px" color="#000" align="center" font-weight="bold" padding="0px 92px">
+          Ninguém vai escapar do Loop. Você não vai deixar. Junte-se aos maiores caçadores de todas as Realidades numa batalha caótica que deixará marcas na Ilha por anos.
+        </mj-text>
+        <mj-spacer height="19px" />
+        <mj-text font-size="16px" color="#000" align="center" font-weight="bold" padding="0px 92px">
+          Batalhe numa arena antiga, conclua caçadas em troca de pagamento
+        </mj-text>
+        <mj-text font-size="16px" color="#000" align="center" font-weight="bold">
+          ... e cuidado para não acabar virando a caça.
+        </mj-text>
+        <mj-spacer height="19px" />
+        <mj-image src="https://ci5.googleusercontent.com/proxy/7WEoeuiTjw0XmE8YppIFPicg-8xliSVSWVMXPgH99u2C197EN911W27nSQapS9WJfsucVVDIcNOw0IO6NIbZOwPUJ3h0QUt5SEQrGK2UqxHQlG9x-AJ-qNw_SsU2AwG0ga4YhUVAnF-rM0mhMxUBShtD=s0-d-e1-ft#http://images.harmony.epsilon.com/ContentHandler/images?id=2a76a10f-609c-450b-9465-78b919547f84" width="231px" padding="16px 0px 11px" />
+        <mj-spacer height="38px" />
+        <mj-image src="https://ci5.googleusercontent.com/proxy/P_PTQ4TM2zGSXxLUKuqhTMOfsYor2djy2MI9shklxaFkVXnH_fb89C3bz9TfrQK61OiiwvrPxjdxgWOcuOz_Erfo9C5jzLWKzETart_w5YuuAwwebJlI3B5gy6nRqs1S0qeWiuYcvuvThWx4xZKJvhNF=s0-d-e1-ft#http://images.harmony.epsilon.com/ContentHandler/images?id=8fb7ce5e-3aea-442b-b697-138057c072af" />
+        <mj-spacer height="19px" />
+        <mj-image src="https://ci5.googleusercontent.com/proxy/LQPuaaNF-4vgpw4jfwYHXzpM7FJo_bHertyXEAKR9QVjidpg9ilPX4x0WlJ_lC8CG1N-S0CuLNbZ728tSuebAo-ZLXwwzuJZO4v1tSjmYBnRiNE4TrYNuN8zlVcF08JJfYeKjiwhHUxTuun7ThpP50MO=s0-d-e1-ft#http://images.harmony.epsilon.com/ContentHandler/images?id=810c298e-c751-461a-b065-16c85c79b0b2" width="199px" padding="14px 0px 10px"/>
+        <mj-spacer height="19px" />
+        <mj-text font-size="16px" color="#000" align="center" font-weight="bold" padding="0px 92px">
+          Ganhe Barras concluindo caçadas, tarefas e eliminando jogadores, ou encontrando estoques escondidos pela ilha.
+        </mj-text>
+        <mj-spacer height="19px" />
+        <mj-text font-size="16px" color="#000" align="center" font-weight="bold" padding="0px 100px">
+          Invista as Barras economizadas em armas Exóticas de fornecedores, aliados contratados e informações.
+        </mj-text>
+        <mj-spacer height="38px" />
+        <mj-image src="https://ci3.googleusercontent.com/proxy/ytwON3B9rh1zgf6gtKcZuhQv-C9Mfh400xphahShH1Vt62JCI2zsuqFd8t1GAD34XWa0ZDK5dH-4rf3fJl8iaT5NZXOgpWwaBvHZDDx8aNbbLsTHND7kntB6XpLRhRmCf6KEiVfmnlydBSyoLGL_uLJu=s0-d-e1-ft#http://images.harmony.epsilon.com/ContentHandler/images?id=35a4dea8-812b-4d3c-8b24-9dd5865b6069" href="https://mail.epicgames.com/T/v6000001763ee1e4c1c4547c6e965fc958/bb5d81c4bc314a760000021ef3a0bcc4/bb5d81c4-bc31-4a76-b350-0ac0379a3008?__dU__=v0G4RBKTXg2GsSUKeCIT0ZsixpTu2oNAqvl6X7t4UbJT0=&__F__=v0fUYvjHMDjRPMSh3tviDHXIoXcPxvDgUUCCPvXMWoX_3eBdf9FwQgU_lC_O4v6bObI5nEyru-SE_tl6S63PW8IC8s8AYXRVndtPZs8zhxON9MR9thmGSU3lXEAF5YBRC4i675hs5woNgNquA4GH6GjRiCn59TaOaHxi38qTo1e0rIJkNJRi4fsLHO_3qC0VElwyiRrFp1Q0N_2CQCpVGvWBqQsz5aNPr7bz-gjOS1Kghcn3ZszGw3mSc5eKG-AvBzrnYQNxXL2197UxoQinkCn5nZySSzTFZZv2AfFsaqKSo=" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
