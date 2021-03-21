@@ -1,0 +1,180 @@
+<mjml>
+	<mj-head>
+		<mj-title>PicPay</mj-title>
+		<mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" />
+		<mj-attributes>
+			<mj-all font-family="Roboto"/>
+		</mj-attributes>
+
+		<mj-style>
+			
+
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#eaeaef">
+		<mj-section padding="0px">
+			<mj-column width="100%" padding="10px 0px 20px 0px">
+				
+				<mj-image container-background-color="#eaeaef" width="150px" src="https://ci3.googleusercontent.com/proxy/RD2beNGOVHNZ33ZRVjgJCxFvMxv4ebfHuQPKjLiVUEJNcXTRscwNodl-YTxbAjCYqMRrfOklOf-MaoA8nNW4bI-h=s0-d-e1-ft#https://cdn.picpay.com/transactional/picpay.png"></mj-image>
+			
+			</mj-column>
+		</mj-section>
+
+		<mj-section padding="0px">
+
+			<mj-column width="100%" background-color="#fff" border-radius="10px 10px 0px 0px">
+				
+				<mj-text font-size="20px" font-family="Roboto" font-weight="700" color="#0d0d0d" padding="40px 25px 15px 25px">
+					Pagamento Realizado
+				</mj-text>
+
+				<mj-divider border-width="1px" border-color="#eaeaef" />
+
+				<mj-image src="http://www.picpay.com/img/default_avatar.png" alt="avatar" width="100px" border-radius="50px" padding="35px 0px 0px 0px"/>
+
+				<mj-text font-size="15px" font-family="Roboto" font-weight="500" align="center" padding="25px 0px 5px 0px">
+					Você pagou a <span style="color: #11c786;">João Vytor Silva Correia</span>
+				</mj-text>
+
+				<mj-text font-size="12px" color="#bfc6ce" align="center" padding="0px">
+					Transação: 131617797 | 11/02/2021 | 13:14
+				</mj-text>
+
+				<mj-divider border-width="1px" border-color="#eaeaef" width="99%" padding="10px 0px"/>
+
+			</mj-column>
+
+		</mj-section>
+
+		<mj-section padding="0px">
+			<mj-group background-color="#fff" width="100%">
+				<mj-column width="50%" background-color="#fff" padding="30px 0px 0px 5px">
+					
+					<mj-text align="left" font-size="17px" color="#5d666f">
+						Saldo utilizado
+					</mj-text>
+					<mj-text font-size="17px" color="#5d666f">
+						Cartão
+					</mj-text>
+					<mj-text font-size="17px" color="#5d666f">
+						Cartão utilizado
+					</mj-text>
+
+				</mj-column>
+
+				<mj-column width="50%"background-color="#fff" padding="30px 5px 0px 0px">
+					
+					<mj-text align="right" font-size="17px" color="#5d666f">
+						R$ 1,02
+					</mj-text>
+					<mj-text align="right" font-size="17px" color="#5d666f">
+						R$ 0,00
+					</mj-text>
+					<mj-text align="right" padding="10px 40px 0px 0px" font-size="17px" color="#5d666f">
+						-
+					</mj-text>
+
+				</mj-column>
+
+			</mj-group>
+			<mj-group background-color="#fff" width="100%">
+				<mj-column width="100%">
+					<mj-divider width="100%" border-width="1px" border-color="#eaeaef" padding="30px 20px 30px 20px"/>
+				</mj-column>
+				
+
+				<mj-column width="50%" background-color="#fff">
+					
+					<mj-text color="#5d666f" font-size="18px" font-weight="700">
+						Total pago
+					</mj-text>
+
+				</mj-column>
+
+				<mj-column width="50%">
+					
+					<mj-text align="right" color="#5d666f" font-size="18px" font-weight="700">
+						R$ 1,02
+					</mj-text>
+
+				</mj-column>
+
+				<mj-column width="100%">
+
+					<mj-divider border-width="1px" border-color="#eaeaef" width="99%" padding="10px 0px"/>
+
+					<mj-image padding="40px 0px 0px 30px" width="500px" src="https://ci4.googleusercontent.com/proxy/yRenumFsgBtHYZ3veMCCDM6rtO8gchL08bXNNKrAtIQzk0zsrdd8RwZUu0ZJp70zAAQzJYPUMSN4DSg2QHPVorA91ZU-fMko=s0-d-e1-ft#https://cdn.picpay.com/Pix/Transacionais/hero-pix.png" alt="Pix" />
+
+					<mj-text align="left" padding="20px 40px" color="#5d666f" font-size="16px">
+						Quer receber ou fazer transferências para qualquer pessoa 24 horas por dia, 7 dias por semana? Cadastre sua chave do Pix no PicPay e aproveite todas as vantagens.
+					</mj-text>
+
+					<mj-button font-size="20px" font-weight="700" background-color="#00cb73" border-radius="100px" width="200px" href="https://picpay-boleto.onelink.me/hVWb/f8196dd">
+						SAIBA MAIS
+					</mj-button>
+
+				</mj-column>
+
+			</mj-group>
+
+			<mj-column width="100%" background-color="#fff" border-radius="0px 0px 10px 10px">
+
+				<mj-spacer height="25px" />
+			
+			</mj-column>
+			
+		</mj-section>
+
+		<mj-section>
+			
+			<mj-column width="100%">
+				
+				<mj-text align="center" color="#7e8790" font-size="17px" font-weight="700">
+
+					Central de Atendimento PicPay
+
+				</mj-text>
+				
+				<mj-text align="center" color="#7e8790" font-size="15px" font-weight="400">
+					Dúvidas? Saiba mais na nossa 
+					<a href="https://ajuda.picpay.com/picpay/enviando-e-recebendo-dinheiro?utm_source=pagamento-realizado&utm_medium=email" style="color: #11c76f;">
+						Central de Ajuda
+					</a>
+				</mj-text>
+
+				<mj-text align="center" color="#7e8790" font-size="15px" font-weight="700">
+					
+					SAC <span style="font-weight: 400;"> 0800 025 8000</span>
+
+					<p style="font-weight: 400;">Atendimento 24 horas, todos os dias</p>
+
+				</mj-text>
+
+				<mj-text align="center" color="#7e8790" font-size="15px" font-weight="700">
+					
+					Ouvidoria <span style="font-weight: 400;"> 0800 025 2000</span>
+
+					<p style="font-weight: 400;">Dias úteis das 10h às 12h e 13h às 15h</p>
+
+				</mj-text>
+
+				<mj-social icon-size="40px">
+					
+					<mj-social-element padding="4px 8px 4px 4px" src="https://ci5.googleusercontent.com/proxy/JTode7rkV4h4YG35Wj8k5HDuI7Zcq5M_QgjYFovptId-x2uCMt1rIAdrqACF6KYZ9jZbGCu9ipcO9oyjN_akZ57MHe0=s0-d-e1-ft#https://cdn.picpay.com/transactional/facebook.png">
+						
+					</mj-social-element>
+					<mj-social-element src="https://ci5.googleusercontent.com/proxy/Y5rKfbeb4C4zsn9ABfePEzTbE2oi4l4sw_wFoSoFkFZgoxd_BpkXTPfj-rUX1LYxQc9qQryYlMwD_S1Ad3O0Oi3MKA=s0-d-e1-ft#https://cdn.picpay.com/transactional/twitter.png">
+						
+					</mj-social-element>
+					<mj-social-element src="https://ci3.googleusercontent.com/proxy/VGIDUQHM45j1JpiqwQKrcIb7zC7hkM9Yb_eJG8-E7sErDh521FfTZRgbsy6oVxjc2mTJ8enNjUDt1hg1PM7mgB0-9_Ss=s0-d-e1-ft#https://cdn.picpay.com/transactional/instagram.png">
+						
+					</mj-social-element>
+
+				</mj-social>
+
+			</mj-column>
+
+		</mj-section>
+
+	</mj-body>
+</mjml>
